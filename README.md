@@ -4,8 +4,8 @@ To increase sales and customer satisfaction, companies often give promotions (li
 ## Proposal
 Refer [this](Machine_Learning_Capstone.pdf) for proposal.
 
-## Data
-Refer folder data which has 3 files 
+## Datasets
+Refer folder [data](data) which has 3 files 
 - portfolio.json
 - profie.json
 - transcript.json
